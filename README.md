@@ -1,6 +1,5 @@
-# ughhagain
-
-A new Flutter project.
+# Reminds Me
+Its A reminder based on the users Location
 
 ## Getting Started
 
